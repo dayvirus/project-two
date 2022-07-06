@@ -1,0 +1,29 @@
+body {
+margin:10px;
+padding:0;
+background-color:blanchedalmond;
+font-family:'Times New Roman', Times, serif
+}
+
+h2 {
+    text-align:center;
+    padding:20px;
+}
+.login {
+        text-align:center;
+       overflow:hidden;
+        margin:auto;
+       padding:20px;
+}
+.login-one{
+    text-align:center;
+    overflow:hidden;
+    margin:auto;
+    padding:20px;
+}
+
+#button {
+    text-align:center;
+    overflow:hidden;
+    font-size:x-large;
+}
